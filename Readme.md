@@ -16,6 +16,9 @@ The React Frontend serves as the user interface for a web application designed t
 
 - React.js
 - Axios (for API requests)
+- Node.js
+- Express.js
+
 
 ### 2. Installation and Setup
 
